@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RepasoComponentes</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="no_binario">No binario</string>
+    <string-array name="municipiosGC">
+        <item>Agaete</item>
+        <item>Agüimes</item>
+        <item>Artenara</item>
+        <item>Arucas</item>
+        <item>Firgas</item>
+        <item>Gáldar</item>
+        <item>Ingenio</item>
+        <item>La Aldea de San Nicolás</item>
+        <item>Las Palmas de Gran Canaria</item>
+        <item>Mogán</item>
+        <item>Moya</item>
+        <item>San Bartolomé de Tirajana</item>
+        <item>Santa Brígida</item>
+        <item>Santa Lucía de Tirajana</item>
+        <item>Santa María de Guía de Gran Canaria</item>
+        <item>Tejeda</item>
+        <item>Telde</item>
+        <item>Teror</item>
+        <item>Valleseco</item>
+        <item>Valsequillo de Gran Canaria</item>
+        <item>Vega de San Mateo</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

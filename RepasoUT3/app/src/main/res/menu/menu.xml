@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/camera"
+        android:title="Cámara" />
+    <item
+        android:id="@+id/video"
+        android:title="Grabar video" />
+    <item
+        android:id="@+id/internet"
+        android:title="Internet" />
+    <item
+        android:id="@+id/map"
+        android:title="Mapa" />
+    <item
+        android:id="@+id/thread"
+        android:title="Hilo" />
+    <item
+        android:id="@+id/ddbb"
+        android:title="@string/ddbb" />
+    <item
+        android:id="@+id/soundReproducer"
+        android:title="@string/soundReproducer" />
+</menu>

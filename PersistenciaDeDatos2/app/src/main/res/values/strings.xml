@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistenciaDeDatos</string>
+    <string name="fecha_hint">Introduce la fecha</string>
+    <string name="texto_hint">Introduce el texto</string>
+    <string name="guardar_button">Guardar</string>
+    <string name="recuperar_button">Recuperar</string>
+</resources>

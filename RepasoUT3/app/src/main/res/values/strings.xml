@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RepasoUT3</string>
+    <string name="title_activity_map">Map</string>
+    <string name="soundReproducer">Reproductor de sonido</string>
+    <string name="ddbb">Firestore</string>
+    <string name="takePhotoTitle">Sacar foto</string>
+    <string name="firebaseTitle">Artículos</string>
+    <string name="dbfield1">Código</string>
+    <string name="dbfield2">Nombre</string>
+    <string name="dbfield3">País</string>
+    <string name="dbfield4">Precio</string>
+    <string name="insert">Insertar</string>
+    <string name="search">Buscar</string>
+    <string name="delete">Eliminar</string>
+    <string name="update">Actualizar</string>
+    <string name="photo">Fotos</string>
+    <string name="take_photo">Hacer foto</string>
+    <string name="select_image">selecciona imagen</string>
+</resources>

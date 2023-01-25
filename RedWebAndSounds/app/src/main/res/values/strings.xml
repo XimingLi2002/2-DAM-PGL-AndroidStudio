@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Red_Web_and_Sound</string>
+    <string name="title">Internet</string>
+    <string name="check_conn_button">Comprueba conexión</string>
+    <string name="web_text_et">Introduce la página:</string>
+    <string name="nav_button">Navegador</string>
+    <string name="play_sound_button">Reproductor sonido</string>
+    <string name="back_button">Back</string>
+</resources>
