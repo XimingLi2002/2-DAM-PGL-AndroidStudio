@@ -16,6 +16,9 @@
         android:id="@+id/thread"
         android:title="Hilo" />
     <item
+        android:id="@+id/firebaseAuth"
+        android:title="@string/auth" />
+    <item
         android:id="@+id/ddbb"
         android:title="@string/ddbb" />
     <item

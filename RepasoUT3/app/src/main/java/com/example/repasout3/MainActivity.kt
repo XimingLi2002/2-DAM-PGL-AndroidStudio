@@ -45,6 +45,10 @@ class MainActivity : AppCompatActivity() {
                 startActivity(Intent(this@MainActivity, Threads::class.java))
                 this.finish()
             }
+            R.id.firebaseAuth -> {
+                startActivity(Intent(this@MainActivity, FirebaseAuth::class.java))
+                this.finish()
+            }
             R.id.ddbb -> {
                 startActivity(Intent(this@MainActivity, Firebase::class.java))
                 this.finish()

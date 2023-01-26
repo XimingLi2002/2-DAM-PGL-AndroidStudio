@@ -16,4 +16,5 @@
     <string name="photo">Fotos</string>
     <string name="take_photo">Hacer foto</string>
     <string name="select_image">selecciona imagen</string>
+    <string name="auth">Autentificación</string>
 </resources>
